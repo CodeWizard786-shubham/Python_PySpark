@@ -1,0 +1,4 @@
+this is a sample input text file for wordcount program
+wordcount program is being implemented using pyspark
+text file will be stored on hdfs
+hdfs is a distributed file system
