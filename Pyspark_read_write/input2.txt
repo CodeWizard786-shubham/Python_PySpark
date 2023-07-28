@@ -1,0 +1,3 @@
+spark is an execution engine
+pyspark library of python is used for data processing
+pyspark is opensource
